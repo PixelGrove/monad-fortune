@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "monad-quick-fortune": {
+      "command": "node",
+      "args": ["./build/index.js"]
+    }
+  }
+}
